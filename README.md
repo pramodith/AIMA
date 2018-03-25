@@ -12,4 +12,4 @@ isolation.
 
 4)hmm_viterbi.py: Contains an implementation of hidden markov models using the viterbi algorithm.
 
-5)decision_trees.py: Decision trees and random forests using Gini Index to calculate the best split point.
+5)decision_trees.py: Decision trees and random forests using Gini Index to calculate the best split point. Cross validation has been implemented to evaluate the accuracy of the model.
