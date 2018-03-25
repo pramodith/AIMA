@@ -8,7 +8,7 @@ isolation.
 
 2)gaussian_mixture_models: Kmeans-clustering and Gaussian Mixture Models were implemented here.
 
-3)search_algos.py: Uniform cost search,A*,Bidirectional search on the Romania map of AIMA.
+3)search_algos.py: Depth First Seatch,Breadth First Search,Uniform cost search,A*,Bidirectional search on the Romania map of AIMA.
 
 4)hmm_viterbi.py: Contains an implementation of hidden markov models using the viterbi algorithm.
 
